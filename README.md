@@ -1,7 +1,7 @@
 ## Rack and Pinion module for OPENSCAD
 
 #### Requrements
-*  openscad
+*  [openscad](http://www.openscad.org/)
 *  your favorite text editor
 
 This is not my own creation.  Credit to:
